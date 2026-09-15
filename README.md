@@ -8,9 +8,9 @@ GitHub achievements are a [public preview](https://docs.github.com/en/account-an
 
 | Achievement | Obtainable? | Status |
 | --- | --- | --- |
-| Quickdraw | Yes | Attempted in this repo (issue opened and closed within 5 minutes) |
-| YOLO | Yes | Attempted in this repo (pull request merged with no review) |
-| Pull Shark | Yes | Attempted in this repo (2+ merged pull requests) |
+| Quickdraw | Yes | Unlocked (issue #1 opened and closed within 5 minutes) |
+| YOLO | Yes | Attempted — [PR #2](https://github.com/EthanSharma-Wadeson/github_achievements/pull/2) merged with no review. GitHub can take hours to award this. |
+| Pull Shark | Yes | Attempted — 2+ merged pull requests in this public repo. GitHub can take hours to award this. |
 | Pair Extraordinaire | Yes, needs a second person | Blocked — requires a co-author on a merged pull request |
 | Galaxy Brain | Yes, needs someone else to accept answers | Blocked — self-accepted discussion answers do not count |
 | Starstruck | Yes, needs 16 stars on one repo | Blocked — this account does not have 16 stars yet |
